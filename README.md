@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Adriano Sanderson! 👋
 
-→ Sou um desenvolvedor de software Front-End, apaixonado por aprimorar minhas habilidades e permanecer atualizado com as tecnologias mais recentes do mercado.
+→ Sou um desenvolvedor de software Full-Stack, apaixonado por aprimorar minhas habilidades e permanecer atualizado com as tecnologias mais recentes do mercado.
 
 → Atualmente estou procurando me aperfeiçoar ainda mais através da realização de projetos pessoais.
 
