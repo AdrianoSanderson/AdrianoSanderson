@@ -19,5 +19,5 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoSanderson&hide=contribs,issues&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github)
+![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoSanderson&hide=contribs,issues&show_icons=true&theme=dark&rank_icon=github)
 
